@@ -1,0 +1,14 @@
+﻿SELECT
+   *
+INTO
+   [powerbi]
+FROM
+   [iothubpoint4]
+
+
+
+
+SELECT
+*
+INTO [output]
+from [iothubpoint4]
